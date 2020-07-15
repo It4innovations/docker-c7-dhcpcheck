@@ -1,2 +1,2 @@
-# docker-c7-dhcpcheck
-Docker with CentOS 7 and dhcp conf
+# docker-dhcpcheck
+Docker on CentOS 7 and dhcp conf
